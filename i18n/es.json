@@ -2,5 +2,5 @@
     "@metadata": {
         "authors": [ "La pluma azul" ]
     },
-    "notocmodern-desc": "Desactiva la tabla de contenido (TOC) de forma predeterminada en todas las páginas."
+    "notocmodern-desc": "Desactiva la tabla de contenido (TOC) por defecto en todas las páginas y permite usar normalmente las palabras mágicas nativas <code><nowiki>__TOC__</nowiki></code> y <code><nowiki>__FORCETOC__</nowiki></code>."
 }

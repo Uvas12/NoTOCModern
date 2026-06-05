@@ -2,5 +2,5 @@
     "@metadata": {
         "authors": [ "La pluma azul" ]
     },
-    "notoc-desc": "Turns off the Table of Contents (TOC) by default on all pages"
+    "notoc-desc": "Turns off the Table of Contents (TOC) by default on all pages and while allowing MediaWiki's natives <code><nowiki>__TOC__</nowiki></code> and <code><nowiki>__FORCETOC__</nowiki></code> magics words to display it normally"
 }
